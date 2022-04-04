@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavodalves&show_icons=true)
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavodalves&show_icons=true">
+</div>
