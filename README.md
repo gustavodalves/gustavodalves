@@ -1,4 +1,4 @@
-Eu sou o Gustavo, desenvolvedor Front-End, Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie
+<h3>Eu sou o Gustavo, desenvolvedor Front-End, Estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie</h3>
 ##
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodalves&show_icons=true&theme=dracula">
@@ -14,7 +14,5 @@ Eu sou o Gustavo, desenvolvedor Front-End, Estudante de Ciência da Computação
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
 </div>
-
-##
 
 ![Snake animation](https://github.com/gustavodalves/gustavodalves/blob/output/github-contribution-grid-snake.svg)
