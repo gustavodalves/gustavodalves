@@ -1,4 +1,4 @@
-Eu sou o Gustavo, desenvolvedor Front-End, estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie
+Meu nome é Gustavo, desenvolvedor Front-End, estudante de Ciência da Computação na Universidade Presbiteriana Mackenzie
 ----
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodalves&show_icons=true&theme=radical" />
