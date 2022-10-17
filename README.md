@@ -7,8 +7,14 @@ I work with javascript and typescript and in my spare time i study Swift and IOS
 
 ## Working with:
 
-  * JavaScript
-  * TypeScript
-  * ReactJS
-  * NodeJS
-  * GraphQL
+ * Interface development
+ * FrontEnd system maintenance
+ * Restful apis consumption
+
+## Technologies & Tools
+
+ * JavaScript
+ * TypeScript
+ * ReactJS
+ * NodeJS
+ * GraphQL
