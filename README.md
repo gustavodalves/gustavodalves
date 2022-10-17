@@ -19,3 +19,4 @@ I work with javascript and typescript and in my spare time i study Swift and IOS
  * NodeJS
  * Jest
  * GraphQL
+ * Docker
