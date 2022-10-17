@@ -17,4 +17,5 @@ I work with javascript and typescript and in my spare time i study Swift and IOS
  * TypeScript
  * ReactJS
  * NodeJS
+ * Jest
  * GraphQL
