@@ -10,6 +10,7 @@ I work with javascript and typescript and in my spare time i study Swift and IOS
  * Interface development
  * FrontEnd system maintenance
  * Restful apis consumption
+ * Automated and Unit Tests
 
 ## Technologies & Tools
 
@@ -18,6 +19,7 @@ I work with javascript and typescript and in my spare time i study Swift and IOS
  * ReactJS
  * NodeJS
  * Jest
+ * Vitest
  * GraphQL
  * Docker
 
