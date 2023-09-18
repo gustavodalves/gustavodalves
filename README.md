@@ -2,15 +2,18 @@
 
 ## Hi there!
 
-I am in the 8th stage of computer science, currently working with Junior Front-End Developer.
-I work with javascript and typescript and in my spare time i study Swift and IOS development.
+I am in the 8th stage of computer science, currently working with Junior Full-Stack Web Developer.
+I work with javascript and typescript and in my spare time i study iOS development and software engineering.
 
 ## Working with:
 
  * Interface development
  * FrontEnd system maintenance
  * Restful apis consumption
- * Automated and Unit Tests
+ * Automated tests
+ * Clean code architeture
+ * Software Engineering
+ * Apple development
 
 ## Technologies & Tools
 
@@ -19,9 +22,9 @@ I work with javascript and typescript and in my spare time i study Swift and IOS
  * ReactJS
  * NodeJS
  * Jest
- * Vitest
  * GraphQL
  * Docker
+ * Swift
 
 <a href="https://www.linkedin.com/in/gustavo-duarte-alves-6b5b701a5/">
   <code><img alt="My linkedin" width="28" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></code>
