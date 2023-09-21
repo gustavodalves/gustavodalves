@@ -3,7 +3,8 @@
 ## Hi there!
 
 I am in the 8th stage of computer science, currently working with Junior Full-Stack Web Developer.
-I work with javascript and typescript and in my spare time i study iOS development and software engineering.
+I work with TypeScript.
+In my spare time i study iOS development and software engineering.
 
 ## Working with:
 
