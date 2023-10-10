@@ -25,6 +25,8 @@ In my spare time i study iOS development and software engineering.
  * Jest
  * GraphQL
  * Docker
+ * Message Broker
+ * Docker
  * Swift
 
 <a href="https://www.linkedin.com/in/gustavo-duarte-alves-6b5b701a5/">
