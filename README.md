@@ -25,7 +25,7 @@ In my spare time i study iOS development and software engineering.
  * Jest
  * GraphQL
  * Docker
- * Message Broker
+ * Message Broker (Apache Kafka, RabbitMQ)
  * gRPC
  * Docker
  * Swift
