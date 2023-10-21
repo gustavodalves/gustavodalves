@@ -26,8 +26,10 @@ In my spare time i study iOS development and software engineering.
  * GraphQL
  * Docker
  * Message Broker
+ * gRPC
  * Docker
  * Swift
+ * GoLang
 
 <a href="https://www.linkedin.com/in/gustavo-duarte-alves-6b5b701a5/">
   <code><img alt="My linkedin" width="28" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /></code>
