@@ -2,7 +2,7 @@
 
 ## Hi there!
 
-I hold a degree in Computer Science, currently working with Junior Full-Stack Web Developer.
+I hold a degree in Computer Science, currently working with Full-Stack Web Developer.
 I work with TypeScript.
 In my spare time i study iOS development and software engineering.
 
